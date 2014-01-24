@@ -1,0 +1,7 @@
+c:\Users\Chris\documents\visual studio 2013\Projects\Hotels\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\Users\Chris\documents\visual studio 2013\Projects\Hotels\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\Users\Chris\documents\visual studio 2013\Projects\Hotels\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\Users\Chris\documents\visual studio 2013\Projects\Hotels\UnitTestProject1\bin\Debug\Hotels.exe
+c:\Users\Chris\documents\visual studio 2013\Projects\Hotels\UnitTestProject1\bin\Debug\Hotels.pdb
+c:\Users\Chris\documents\visual studio 2013\Projects\Hotels\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\Users\Chris\documents\visual studio 2013\Projects\Hotels\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

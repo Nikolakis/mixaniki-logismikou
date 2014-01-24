@@ -1,0 +1,9 @@
+c:\users\chris\documents\visual studio 2013\Projects\Hotels\Hotels\bin\Debug\Hotels.exe.config
+c:\users\chris\documents\visual studio 2013\Projects\Hotels\Hotels\bin\Debug\Hotels.exe
+c:\users\chris\documents\visual studio 2013\Projects\Hotels\Hotels\bin\Debug\Hotels.pdb
+c:\users\chris\documents\visual studio 2013\Projects\Hotels\Hotels\obj\Debug\Hotels.Form1.resources
+c:\users\chris\documents\visual studio 2013\Projects\Hotels\Hotels\obj\Debug\Hotels.Properties.Resources.resources
+c:\users\chris\documents\visual studio 2013\Projects\Hotels\Hotels\obj\Debug\Hotels.csproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2013\Projects\Hotels\Hotels\obj\Debug\Hotels.exe
+c:\users\chris\documents\visual studio 2013\Projects\Hotels\Hotels\obj\Debug\Hotels.pdb
+c:\users\chris\documents\visual studio 2013\Projects\Hotels\Hotels\obj\Debug\Hotels.csprojResolveAssemblyReference.cache
